@@ -21,6 +21,22 @@ img{
 	width: auto;
 	height: 100%;
 }
+.dropdown-item{
+	font-family:liberatic monospace; 
+	font-size: 17px;
+}
+h2{
+	font-size: 34px!important;
+   font-family: Times New Roman;
+    padding: 20px;
+
+}
+.footer{
+	font-family: times new roman;
+	padding: 10px !important;
+	color: rgb(214, 58, 136); 
+	
+}
 /*#home-button {
 	font-family: liberatic mono;
 	color: teal;
